@@ -32,7 +32,8 @@ namespace SimpleCalc
 		//Create a method to add the two numbers
 		public double Add()
 		{
-			throw new NotImplementedException();
+			//throw new NotImplementedException();
+			 return Number2 + Number1;
 		}
 
 		//Create a method to subtract the two numbers
